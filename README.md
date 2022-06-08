@@ -23,12 +23,11 @@ By observing the given dataset we can clearly tell that it is a supervised machi
 
 Approach: 
 Loading the Dataset, 
-Data Visualization,  
-Data Pre-Processing, 
+Data Visualization, Data Pre-Processing, 
 Model implementation using various Supervised Machine Learning Techniques and Finding the accuracy for testing,training data.
 
 Tools and Techniques used: 
 numPy, pandas, matplotlib.pyplot, seaborn used for data visualization and pre-processing. Scikit learn, XGBoost for implementing the different Supervised Machine learning Classifiers(Random fofrest, Support Vector Machine, Decision Tree, XGBoost)
 
 Accuracy of the model: 
-After implementation and comparision of different models, it is observed that XGBoost Model performs better Accuracy than other.
+After implementation and comparision of different models, it is observed that XGBoost Model performs better Accuracy than other Models.
