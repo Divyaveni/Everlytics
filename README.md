@@ -19,7 +19,7 @@ Justifications of selected approach, tools and techniques
 Visualizations if necessary (you can keep them as part of the Jupyter Notebook)
 
 Evaluation Criteria: 
-By observing the given dataset it can be clearly tells that it as a supervised machine learning task. If we observe the result, it shows there is 1/0 and comes under the classification problem.
+By observing the given dataset we can clearly tell that it is a supervised machine learning task. If we observe the result, it shows there is 1/0 and comes under the classification problem.
 
 Approach: 
 Loading Data
