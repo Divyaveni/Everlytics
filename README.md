@@ -22,9 +22,9 @@ Evaluation Criteria:
 By observing the given dataset we can clearly tell that it is a supervised machine learning task. If we observe the result, it shows there is 1/0 and it comes under the classification problem.
 
 Approach: 
-Loading Data
-Data Visualization 
-Data Pre-Processing
+Loading the Dataset, 
+Data Visualization,  
+Data Pre-Processing, 
 Model implementation using various Supervised Machine Learning Techniques and Finding the accuracy for testing,training data.
 
 Tools and Techniques used: 
